@@ -5,19 +5,19 @@ No entanto, bem funcional, dinâmico e simples!
 
 # Tela inicial
 
-![Concept admin dashboard template preview](assets/login.png)
+![Concept admin dashboard template preview](login.png)
 
 # Pessoas cadastradas
 
-![Concept admin dashboard template preview](assets/usuarios.png)
+![Concept admin dashboard template preview](usuarios.png)
 
 # Inscrições em vagas
 
-![Concept admin dashboard template preview](assets/inscricoes.png)
+![Concept admin dashboard template preview](inscricoes.png)
 
 # Vagas abertas 
 
-![Concept admin dashboard template preview](assets/vagas.png)
+![Concept admin dashboard template preview](vagas.png)
 
 ### Funcionalidades 
 
