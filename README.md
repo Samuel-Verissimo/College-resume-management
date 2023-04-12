@@ -26,7 +26,7 @@ No entanto, bem funcional, dinâmico e simples!
 - Gerenciamento de vagas existentes
 - Gerenciamento de login
 
-### Linguagens utilizadas 
+### Tecnologias utilizadas 
 
 - PHP        (PDO)  
 - Bootstrap4 (Framework) 
